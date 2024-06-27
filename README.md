@@ -51,7 +51,7 @@ o	La aplicación podrá contar con un sistema de asesorías en las que se les br
 
 ## Identidad grafica
 <li>Logo de la empresa</li>
-<img src="(https://github.com/AbishaiFC/Practica_05/blob/b87d192393ddda33a818e26e41b6b1d75f64199c/Captura%20de%20pantalla%202024-06-19%20195103.png)" height="250" width="250" />
+<img src="Captura de pantalla 2024-06-19 195103.png" height="250" width="250" />
 
 <li>Logo del proyecto</li>
 
