@@ -36,16 +36,16 @@ Se busca dar seguimiento o la primera oportunidad a casos de desempleo de person
 
 
 ## Objetivos Especificos: 
-o	Se busca conseguir un mayor alcance de difusión para crear una estructura que permita a las personas con capacidades diferentes obtener o su primer empleo o un nuevo empleo en caso de falta de oportunidades debido a sus capacidades actuales
-o	Se pretende crear una plataforma de soporte que de información de empresas y de solicitantes en base a un curriculum que las empresas puedan observar desde la plataforma para así poder volver más eficiente el proceso de contratación en base a los requerimientos que busque la empresa
-o	Se pretende crear una aplicación para que los usuarios que requieren del sistema puedan acceder a material que permita potenciar sus habilidades o desarrollar nuevas sin ningún costo adicional
-o	Se pretende el diseño de un perfil exclusivo para cada usuario en base a sus curriculum en base a un algoritmo que sugiera los tipos de empleo a las que puede capacitarse para obtener el empleo
-o	Se promueve que el usuario pueda tener un perfil en el que se muestren distintos elementos o tags que las empresas puedan filtrar para así filtrar candidatos y poder enviar alguna recomendación para entrevista a estos
-o	La aplicación podrá saber a los distintos empleos a lo que el usuario ha trabajado, es decir se puede llevar un historial y experiencia laboral registrados
-o	Se podrá contar con un sistema de seguridad en el cual el usuario pueda resguardar la confidencialidad de sus documentos de manera que estos no puedan ser accedidos por un tercero, esto será realizado mediante una encriptación para estos
-o	Se pretende que la aplicación en un futuro estos puedan tener un certificado brindado por la aplicación que de fe y legalidad sobre la documentación emitida en la misma.
-o	Los usuarios podrán ver en su perfil el seguimiento de revisión de documentos por parte empresas para que estas puedan mostrar su interés por un usuario mediante un sistema de visitas
-o	La aplicación podrá contar con un sistema de asesorías en las que se les brinde coordinación y experiencia para poder aplicar a diversas entrevistas de manera exitosa
+    - Se busca conseguir un mayor alcance de difusión para crear una estructura que permita a las personas con capacidades diferentes obtener o su primer empleo o un nuevo empleo en caso de falta de oportunidades debido a sus capacidades actuales
+    - Se pretende crear una plataforma de soporte que de información de empresas y de solicitantes en base a un curriculum que las empresas puedan observar desde la plataforma para así poder volver más eficiente el proceso de contratación en base a los requerimientos que busque la empresa
+    - Se pretende crear una aplicación para que los usuarios que requieren del sistema puedan acceder a material que permita potenciar sus habilidades o desarrollar nuevas sin ningún costo adicional
+    - Se pretende el diseño de un perfil exclusivo para cada usuario en base a sus curriculum en base a un algoritmo que sugiera los tipos de empleo a las que puede capacitarse para obtener el empleo
+    - Se promueve que el usuario pueda tener un perfil en el que se muestren distintos elementos o tags que las empresas puedan filtrar para así filtrar candidatos y poder enviar alguna recomendación para entrevista a estos
+     - La aplicación podrá saber a los distintos empleos a lo que el usuario ha trabajado, es decir se puede llevar un historial y experiencia laboral registrados
+    - Se podrá contar con un sistema de seguridad en el cual el usuario pueda resguardar la confidencialidad de sus documentos de manera que estos no puedan ser accedidos por un tercero, esto será realizado mediante una encriptación para estos
+    - Se pretende que la aplicación en un futuro estos puedan tener un certificado brindado por la aplicación que de fe y legalidad sobre la documentación emitida en la misma.
+    - Los usuarios podrán ver en su perfil el seguimiento de revisión de documentos por parte empresas para que estas puedan mostrar su interés por un usuario mediante un sistema de visitas
+    - La aplicación podrá contar con un sistema de asesorías en las que se les brinde coordinación y experiencia para poder aplicar a diversas entrevistas de manera exitosa
 
 
 
