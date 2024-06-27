@@ -51,13 +51,13 @@ o	La aplicación podrá contar con un sistema de asesorías en las que se les br
 
 ## Identidad grafica
 <li>Logo de la empresa</li>
-<img src="Captura de pantalla 2024-06-19 195103.png" height="250" width="250" />
+<img src="Imagen2.jpg" height="250" width="250" />
 
 <li>Logo del proyecto</li>
-
+<img src="Imagen1.jpg" height="250" width="250" />
 
 <li>Paleta de colores para el proyecto</li>
-
+<img src="Captura de pantalla 2024-06-19 195103.png" height="250" width="250" />
 
 
 ## Requerimientos Funcionales
