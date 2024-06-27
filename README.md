@@ -137,6 +137,5 @@ Se busca dar seguimiento o la primera oportunidad a casos de desempleo de person
 
 ## Licencia de Software
 
-![](https://img.shields.io/github/license/AbishaiFC/{NEW VISION}.svg)
-
+![](https://img.shields.io/github/license/AbishaiFC/{NEW_VISION}.svg)
 
