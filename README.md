@@ -57,7 +57,7 @@ Se busca dar seguimiento o la primera oportunidad a casos de desempleo de person
 <img src="LogoNV.jpg" height="250" width="250" />
 
 <li>Paleta de colores para el proyecto</li>
-<img src="Captura de pantalla 2024-06-19 195103.png" height="250" width="250" />
+<img src="PaletteColor.png" height="250" width="250" />
 
 
 ## Requerimientos Funcionales
