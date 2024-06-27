@@ -36,7 +36,7 @@ Se busca dar seguimiento o la primera oportunidad a casos de desempleo de person
 
 
 ## Objetivos Especificos: 
-    - Se busca conseguir un mayor alcance de difusión para crear una estructura que permita a las personas con capacidades diferentes obtener o su primer empleo o un nuevo empleo en caso de falta de oportunidades debido a sus capacidades actuales
+   - Se busca conseguir un mayor alcance de difusión para crear una estructura que permita a las personas con capacidades diferentes obtener o su primer empleo o un nuevo empleo en caso de falta de oportunidades debido a sus capacidades actuales
     - Se pretende crear una plataforma de soporte que de información de empresas y de solicitantes en base a un curriculum que las empresas puedan observar desde la plataforma para así poder volver más eficiente el proceso de contratación en base a los requerimientos que busque la empresa
     - Se pretende crear una aplicación para que los usuarios que requieren del sistema puedan acceder a material que permita potenciar sus habilidades o desarrollar nuevas sin ningún costo adicional
     - Se pretende el diseño de un perfil exclusivo para cada usuario en base a sus curriculum en base a un algoritmo que sugiera los tipos de empleo a las que puede capacitarse para obtener el empleo
