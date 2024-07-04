@@ -58,6 +58,8 @@ Se busca dar seguimiento o la primera oportunidad a casos de desempleo de person
 
 <li>Paleta de colores para el proyecto</li>
 <img src="PaletteColor.png" height="250" width="250" />
+<li>prototipo de pagina</li>
+<img src="prototipo.jpg" height="250" width="250" />
 
 
 ## Requerimientos Funcionales
