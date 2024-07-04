@@ -2,14 +2,14 @@
 <p align = justify>
 Avances y documentación sobre el avance del proyecto integrador
 ## Proyecto integrador
-En este proyecto crearemos una aplicacion web la cual permita a los usuarios el buscar y poder aplicar a distintas ofertas de trabajo en base a las capacidades actuales con las que posee el usuario, se le dara seguimiento a cada usuario y estos podran tener un ligero asesoramiento y orientacion mediante la misma aplicacion
+En este proyecto crearemos una aplicacion web la cual  nos permitira a los usuarios el buscar y poder aplicar a  las distintas ofertas de trabajo en base a las capacidades actuales con las que posee el usuario, se le dara seguimiento a cada usuario y estos podran tener un  asesoramiento y orientacion mediante la misma aplicacion
 
 ## Problematica
 <p align = justify>
 Las personas con capacidades diferentes enfrentan múltiples desafíos al buscar empleo. Estos incluyen discriminación, barreras físicas y actitudinales, menos oportunidades laborales, salarios más bajos y riesgos psicosociales. La inclusión y la sensibilización son clave para superar estas dificultades y lograr igualdad de oportunidades en el mercado laboral .
 ## Propuesta de solución
 <p align = justify>
-Nuestra propuesta es desarrollar la aplicación NEW VISION que tiene como objetivo facilitar la integración de personas con discapacidad al mercado laboral. A través de esta plataforma, agencias de empleo, empresas y candidatos pueden colaborar para eliminar barreras y mitigar las dificultades que enfrentan las personas con capacidades diferentes a la hora de buscar empleo.
+Nuestra propuesta es desarrollar la aplicación NEW VISION que tiene como objetivo facilitar la integración de personas con discapacidad al mercado laboral. A través de esta plataforma, agencias de empleo, empresas y candidatos pueden colaborar para eliminar estas barreras y mitigar las dificultades que enfrentan las personas con capacidades diferentes a la hora de buscar empleo.
 
 
 ## Lista de Tecnologías
