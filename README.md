@@ -133,6 +133,7 @@ Se busca dar seguimiento o la primera oportunidad a casos de desempleo de person
 ## Autores
 
 [@AbishaiFC](https://github.com/AbishaiFC) 
+[@CarlosFosadoo](https:github.com/CarlosFosadoo)
 
 
 ## Licencia de Software
