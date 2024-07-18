@@ -1,7 +1,6 @@
 # Diagramas ![Diagramas](https://img.shields.io/badge/Diagramas-Yes-brightgreen)
 
 <p align = justify>
-
 En este apartado se almacenarán los diagramas. Estos son como mapas que muestran cómo está organizada nuestra base de datos en el proyecto. Los diagramas nos permiten entender y comprender cómo todas las partes del software trabajan juntas.
 </p>
 
