@@ -6,7 +6,7 @@ En este apartado se almacenarán los triggers del proyecto. Los triggers son reg
 </p>
 
 ## Equipo de Desarrollo
->IntegradoraI-NombreProyecto<br>
+>IntegradoraI-New Vision<br>
 >| - Backend <br>
 >| - **Databases**<br>
 >&nbsp;&nbsp;|- Backups<br>

@@ -5,7 +5,7 @@ En este apartado ingresaremos y almacenaremos el diccionario de datos. Este dicc
 </p>
 
 ## Equipo de Desarrollo
->IntegradoraI-NombreProyecto<br>
+>IntegradoraI-New Vision<br>
 >| - Backend <br>
 >| - **Databases**<br>
 >&nbsp;&nbsp;|- Backups<br>

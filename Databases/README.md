@@ -5,7 +5,7 @@ En este apartado detallaremos la documentación del proyecto. La documentación 
 </p>
 
 ## Equipo de Desarrollo
->IntegradoraI-NombreProyecto<br>
+>IntegradoraI-New Vision<br>
 >| - Backend <br>
 >| - **Database**<br>
 >&nbsp;&nbsp;|- Backups<br>

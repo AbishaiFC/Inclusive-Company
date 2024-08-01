@@ -6,7 +6,7 @@ En este apartado se archivarán y detallarán los procedimientos almacenados por
 
 
 ## Equipo de Desarrollo
->IntegradoraI-NombreProyecto<br>
+>IntegradoraI-New Vision<br>
 >| - Backend <br>
 >| - **Databases**<br>
 >&nbsp;&nbsp;|- Backups<br>
