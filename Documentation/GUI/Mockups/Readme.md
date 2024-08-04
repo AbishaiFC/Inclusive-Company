@@ -1,7 +1,7 @@
 # Mockups ![Mockups](https://img.shields.io/static/v1?label=Mockups&message=Ready%20for%20Review&color=blue)
 
 <p align = justify>
-En este apartado se colocaran las representaciones visuales de la interfaz que se mostrara o que visualizara el usuario, estos incluyen el diseño viausla completo, desde los colores, tipografias, graficos, etc, aunque en estos no se visualiza la interaccion que tendra, esto permite la vista detallada de como sera el resultado visual final.
+En este apartado se colocaran las representaciones visuales de la interfaz que se mostrara o que visualizara el usuario, estos incluyen el diseño visual completo, desde los colores, tipografias, graficos, etc, aunque en estos no se visualiza la interaccion que tendra, esto permite la vista detallada de como sera el resultado visual final.
 </p>
 
 ## Equipo de Desarrollo

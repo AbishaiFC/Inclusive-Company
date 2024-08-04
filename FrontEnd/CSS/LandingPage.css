@@ -1,0 +1,8 @@
+button.inicio{
+    width: 100px;
+    height: 30px;
+    border-radius: 15px;
+    border: solid 3px black;
+    margin: 5px 10px;
+    background: black;
+}
