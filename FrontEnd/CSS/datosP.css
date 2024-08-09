@@ -1,0 +1,152 @@
+*{
+    margin: 0;
+}
+body{
+    background-color: #fefefe;
+}
+header{
+    background: #ebebe9; /* Color de fondo del header */
+    display: flex; /* Display flexible */
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Titulo{
+    position: absolute;
+    left: 100px;
+}
+.logo{
+    font-size: 28px;
+    font-weight: bold;
+    color: #fefefe;
+}
+
+.datos{
+    background-color: #4c535d;
+    text-align: center;
+    color: white;
+    margin-top: 15px;
+    align-items: center;
+    padding: 15px 15px;
+}
+.botones{
+    width: 350px;
+    margin: 15px auto;
+    background-color: #625e73;
+    padding: 0;
+    border: px solid white;
+    border-radius: 25px;
+}
+
+
+button{
+    text-align: center;
+    background-color: #7f7e9b;
+    height: 40px;
+    width: 200px;
+    border-radius: 20px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+
+.Siguiente{
+    text-align: center;
+    background-color: #7f7e9b;
+    height: 40px;
+    width: 200px;
+    border-radius: 20px;
+    color: white;
+    margin-left: 640px;
+    border: 1px solid #7f7e9b;
+
+}
+.profesional{
+    margin-left: 460px;
+
+    
+}
+.profesional input{
+    border-radius: 5px;
+    margin-left: 50px;
+
+    height: 30px;
+    width: 350px;
+    padding: 5px 5px;
+
+}
+.personales{
+    margin-left: 400px;
+    width: 800px;
+}
+.personales input{
+    border-radius: 5px;
+    width: 150px;
+    height: 30px;
+    margin: 2px 20px;
+    padding: 5px 5px;
+    border-radius: 2px solid #7f7e9b;
+
+}
+footer{
+    display: flex;
+    text-align: left;
+    justify-content:end ;
+    background: #1e1837;
+    padding: 15px 25px;
+    margin-top: 25px;
+}
+
+h4{
+    color: #ffffff;
+    font-size: 18px;
+}
+
+.Referencias {
+    padding: 10px 25px;
+}
+
+.Referencias a{
+    color: #ffffff;
+    text-decoration: none;
+    margin-left: 15px;
+    margin-top: 6px;
+}
+
+.btnSection{
+    width: 150px;
+    padding: 5px 1px;
+    border-radius: 25px;
+    margin-top: 10px;
+    border: 2px solid white;
+    background-color: #ebebe9;
+}
+
+.file-input {
+    position: relative;
+    display: inline-block;
+  }
+  
+  /* Oculta el input file real */
+  .file-input::file-selector-button {
+    background-color: #ebebe9;
+    color: rgb(0, 0, 0);
+    padding: 10px;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    width: 255px;
+  }
+  
+  .file-input::file-selector-button:hover {
+    background-color: #ababa8;
+  }
+  hr{
+    margin: 0px 25px;
+  }
+  label{
+    font-size: 20px;
+    margin: 5px 5px;
+  }

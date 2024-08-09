@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+}
+body{
+    background-color: #fefefe;
+}
+header{
+    background: #ebebe9; /* Color de fondo del header */
+    display: flex; /* Display flexible */
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.Titulo{
+    position: absolute;
+    left: 100px;
+}
+
+
+.Discapacidad{
+    padding: 5px 5px;
+    background-color: #4c535d;
+    text-align: center;
+    color: white;
+    margin-top: 15px;
+}
+
+.discapacidades{
+    margin-left: 550px;
+    font-size: 25px;
+}
+
+.discapacidades input{
+    width: 300px;
+    height: 40px;
+    border-radius: 5px;
+    margin: 2px 20px;
+    padding: 5px 5px;
+    border-radius: 2px solid #7f7e9b;
+    
+}
+
+.dependencias input{
+    width: 300px;
+    height: 100px;
+    border-radius: 5px;
+    margin: 2px 20px;
+    padding: 5px 5px;
+    border-radius: 2px solid #7f7e9b;
+}
+
+.Adicional input{
+    width: 300px;
+    height: 100px;
+    border-radius: 5px;
+    margin: 2px 20px;
+    padding: 5px 5px;
+    border-radius: 2px solid #7f7e9b;
+}
+
+button{
+    text-align: center;
+    background-color: #7f7e9b;
+    height: 40px;
+    width: 200px;
+    border-radius: 20px;
+    color: white;
+    margin-left: 630px;
+    border: 1px solid #7f7e9b;
+}
+
+button:hover{
+    background-color: aliceblue;
+    color: black;
+}
+
+
+footer{
+    display: flex;
+    text-align: left;
+    justify-content:end ;
+    background: #1e1837;
+    padding: 15px 25px;
+    margin-top: 15px;
+}
+
+h4{
+    color: #ffffff;
+    font-size: 18px;
+}
+
+.Referencias {
+    padding: 10px 25px;
+}
+
+.Referencias a{
+    color: #ffffff;
+    text-decoration: none;
+    margin-left: 15px;
+    margin-top: 6px;
+}
