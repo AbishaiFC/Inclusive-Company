@@ -9,7 +9,6 @@
 Se pretende crear una aplicacion web en la cual, los usuarios de la misma permitira a estos poder buscar, aplicar y obtener distintas ofertas de trabajo en base a las capacidades actuales que posee el usuario, cada usuario puede crear un perfil que permita mostrar sus distintas habilidades, asi como tambien las empresas podran publicitar convocatorias para poder obtener los mejores candidatos para aplicar a ellas
 </p>
 
-
 ## Problematica
 <p align = justify>
 Las personas con capacidades diferentes enfrentan múltiples desafíos al buscar empleo. Estos incluyen discriminación, barreras físicas y actitudinales, menos oportunidades laborales, salarios más bajos y riesgos psicosociales. La inclusión y la sensibilización son clave para superar estas dificultades y lograr igualdad de oportunidades en el mercado laboral.
@@ -63,22 +62,15 @@ Los programas que tenemos previstos para usar son:
 
    ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 
-  
   - **Servidor:**
   
    ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-  
   - **Pruebas:**
 
    ![](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
 ![](https://img.shields.io/badge/Microsoft_Edge-0078D4?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
 
-
-
-
-
-  
   - **Documentación:**
 
   ![](https://img.shields.io/badge/Hecho%20con-Markdown-1f425f.svg)
