@@ -136,6 +136,7 @@ Se busca dar seguimiento o la primera oportunidad a casos de desempleo de person
 
 [@AbishaiFC](https://github.com/AbishaiFC) 
 [@CarlosFosadoo](https:github.com/CarlosFosadoo)
+[@ArtQuir29](https://github.com/ArtQuir29)
 
 
 ## Licencia de Software
