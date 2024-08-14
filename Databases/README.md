@@ -1,7 +1,7 @@
 # Databases ![Documentation](https://img.shields.io/badge/Documentation-Yes-brightgreen)
 
 <p align = justify>
-En este apartado detallaremos la documentación del proyecto. La documentación explica cómo instalar, usar y entender el propósito y la dirección del proyecto. Esto es crucial para que cuando se integre a un nuevo miembro al equipo, pueda seguir fácilmente el proyecto. Además, la documentación ayuda a resolver problemas si algo no funciona como debería, proporcionando guías y referencias claras sobre cómo abordar diferentes aspectos y situaciones del proyecto.
+En este apartado desarrollaremos la documentación del proyecto. La documentación explica cómo instalar, usar y entender el propósito y la dirección del proyecto. Esto es crucial para que cuando se integre a un nuevo miembro al equipo, pueda seguir fácilmente el proyecto. Además, la documentación ayuda a resolver problemas si algo no funciona como debería, proporcionando las  guías y referencias claras sobre cómo abordar diferentes aspectos y situaciones del proyecto.
 </p>
 
 ## Equipo de Desarrollo
