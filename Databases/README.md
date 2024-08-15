@@ -1,13 +1,14 @@
-# Databases ![Documentation](https://img.shields.io/badge/Documentation-Yes-brightgreen)
+# Databases  ![Databases](https://img.shields.io/badge/Databases-%E2%9C%94-green)
+<p align = justify> 
+En esta sección, proporcionaremos la documentación detallada sobre la base de datos del proyecto. La documentación describe cómo configurar, gestionar y utilizar la base de datos, así como el propósito y la estructura de los datos. Esta información es esencial para garantizar que cualquier nuevo miembro del equipo pueda entender y trabajar con la base de datos de manera eficiente.
 
-<p align = justify>
-En este apartado desarrollaremos la documentación del proyecto. La documentación explica cómo instalar, usar y entender el propósito y la dirección del proyecto. Esto es crucial para que cuando se integre a un nuevo miembro al equipo, pueda seguir fácilmente el proyecto. Además, la documentación ayuda a resolver problemas si algo no funciona como debería, proporcionando las  guías y referencias claras sobre cómo abordar diferentes aspectos y situaciones del proyecto.
+Además, la documentación ofrece guías para solucionar problemas relacionados con la base de datos y proporciona referencias claras sobre cómo manejar distintos aspectos y situaciones. Esto incluye instrucciones sobre cómo realizar operaciones básicas, consultas avanzadas, mantenimiento y resolución de errores comunes. Tener una documentación completa y precisa es crucial para asegurar que la base de datos funcione correctamente y para facilitar la integración de nuevos colaboradores en el proyecto.
 </p>
 
 ## Equipo de Desarrollo
->IntegradoraI-NombreProyecto<br>
+>IntegradoraI-New Vision<br>
 >| - Backend <br>
->| - **Database**<br>
+>| - **Databases**<br>
 >&nbsp;&nbsp;|- Backups<br>
 >&nbsp;&nbsp;|- Data_Dictionary<br>
 >&nbsp;&nbsp;|- Diagramas<br>

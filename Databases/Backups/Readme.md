@@ -5,7 +5,7 @@ En este apartado se subirán los backups, que son copias de seguridad de la info
 </p>
 
 ## Equipo de Desarrollo
->IntegradoraI-NombreProyecto<br>
+>IntegradoraI-New Vision<br>
 >| - Backend <br>
 >| - **Databases**<br>
 >&nbsp;&nbsp;|- **Backups**<br>

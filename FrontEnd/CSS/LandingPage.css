@@ -1,0 +1,258 @@
+*{
+    margin: 0px 0px; /* Espacio de margen entre la ventana y los objetos dentro de ella */
+}
+header{
+    background: #ebebe9; /* Color de fondo del header */
+    display: flex; /* Display flexible */
+    justify-content:end;
+    height: 82px;
+    align-items: center;
+    padding: 5px 10px ; 
+}
+.Titulo{
+    position: absolute;
+    left: 100px;
+}
+.InicioHead{
+    text-align: center; /* Alineación del texto */
+    display: inline-block; /* Display inline-block */
+    font-size: 16px; /* Tamaño de fuente */
+    margin: 10px 5px; 
+    padding: 10px 30px;
+    border-radius: 58px; /*Radio del boton */
+}
+#InicioSesion{
+    border: #1e1837 2px solid;
+}
+
+#Registro{
+    border:solid 2px #625e73;
+    background: #625e73;
+}
+
+.InicioHead a{
+    text-decoration: none;
+    font-family:'Times New Roman', Times, serif;
+}
+
+#InicioSesion a{
+    color: #1e1837;
+}
+
+#Registro a{
+    color: #ffffff;
+}
+
+.BarraInicio{
+    background-color: #ffffff; /* Color de fondo del botón */
+    text-align: center; /* Alineación del texto */
+    display: inline-block; /* Display inline-block */
+    font-size: 16px; /* Tamaño de fuente */
+    margin: 10px 0px; /* Márgenes */
+    border-radius: 58px; /*Radio del boton */
+}
+
+.Inicio{
+    background-color: #ffffff; /* Color de fondo del botón */
+    border: 2px solid rgb(255, 255, 255); /* Sin borde */
+    padding: 15px 32px; /* Espaciado interno */
+    text-align: right; /* Alineación del texto */
+    display: inline-block; /* Display inline-block */
+    font-size: 16px; /* Tamaño de fuente */
+    border-radius: 28px; /*Radio del boton */
+}
+
+.Inicio .Categoria, .Ubicación, .Discapacidad {
+    color: #1e1837; /* Color del texto del enlace */
+    text-decoration: none; /* Subrayado del texto del enlace */ 
+    align-items: center;
+    display: flex;
+    margin-top: 4px;
+}
+
+.Buscar{
+    background-color: #1e1837; /* Color de fondo del botón */
+    border: 2px solid rgb(255, 255, 255); /* Sin borde */
+    padding: 15px 32px; /* Espaciado interno */
+    text-align: center; /* Alineación del texto */
+    display: inline-block; /* Display inline-block */
+    font-size: 16px; /* Tamaño de fuente */
+    margin: 0px 0px; /* Márgenes */
+    border-radius: 28px;  /*Radio del boton */
+    height: 100%;
+}
+.Buscar .Empleos{
+    color: #ffffff; /* Color del texto del enlace */
+    text-decoration: none; /* Subrayado del texto del enlace */
+    display: flex;
+    margin-top: 4px;
+}
+
+nav{
+    background-color: #4c535d;
+    margin: 10px 0px;
+    padding: 5px 5px;
+    text-align: center;
+    color: #ffffff;
+}
+
+nav a{
+    color: #625e73;
+    margin-left: 5px;
+}
+
+.find{
+    text-align: center;
+    margin: 10px 15px;
+}
+
+h2{
+    text-align: center;
+    margin-top: 15px;
+    color: #625e73;
+}
+h2 b{
+    color: #4c535d;
+    margin-bottom: auto;
+    }
+
+div p{
+    color: #625e73;
+    font-size: 20px;
+}
+li{
+    color: #625e73;
+    margin-left: 305px;
+}
+ul{
+    margin-bottom: 25px;
+}
+.image{
+    float: left;
+    margin: 25px 155px 0px 25px ;
+    position: relative;
+}
+.circulo1{
+    width: 110px;
+    height: 93px;
+    background: #4c535d;
+    border-radius: 50%;
+    position: absolute;
+    z-index: 2;
+    float: left;
+    margin-top: -9px;
+    margin-left: -5px;
+}
+.circulo2{
+    width: 110px;
+    height: 93px;
+    background: #ebebe9;
+    border-radius: 50%;
+    position: absolute;
+    z-index: 1;
+    float: left;
+    margin-top: -17px;
+    margin-left: 12px;
+}
+.image button {
+    margin-top: 25px;
+    height: 25px;
+    align-items: center;
+    padding: 2px 20px;
+}
+
+.secciones{
+    display: flex;
+
+    padding:  2px 25px;
+    justify-content:space-between;
+}
+section{
+    background-color: #ebebe9;
+    padding: 25px 15px;
+    margin: 25px 80px;
+    height: 100px;
+    width: 250px;
+    border-radius: 10px;
+    align-items: center;
+    justify-content: center;
+}
+
+section p{
+    text-align: justify;
+}
+
+section h3{
+    font-size: 25px;
+    margin-bottom: 2px;
+}
+.Crear{
+    text-align: center; /* Alineación del texto */
+    display: inline-block; /* Display inline-block */
+    font-size: 12px; /* Tamaño de fuente */
+    margin: 10px 5px; 
+    padding: 5px 15px;
+    border-radius: 58px;
+    background: #4c535d; /*Radio del boton */
+}
+
+.Cuenta{
+    color: #ebebe9; /* Color del texto del enlace */
+    text-decoration: none; /* Subrayado del texto del enlace */ 
+    align-items: center;
+
+}
+
+.Publica{
+    background-color: #625e73; /* Color de fondo del botón */
+    border: 2px solid #625e73; /* Sin borde */
+    padding: 15px 32px; /* Espaciado interno */
+    text-align: right; /* Alineación del texto */
+    display: inline-block; /* Display inline-block */
+    border-radius: 28px; /*Radio del boton */
+
+}
+
+.Ofertas {
+    text-decoration: none;
+    font-size: 18px; /* Tamaño de fuente */
+    color: #ffffff;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer{
+    display: flex;
+    text-align: left;
+    justify-content:end ;
+    background: #1e1837;
+    padding: 15px 25px;
+    margin-top: 75px;
+}
+
+h4{
+    color: #ffffff;
+    font-size: 18px;
+}
+
+.Referencias {
+    padding: 10px 25px;
+}
+
+.Referencias a{
+    color: #ffffff;
+    text-decoration: none;
+    margin-left: 15px;
+    margin-top: 6px;
+}

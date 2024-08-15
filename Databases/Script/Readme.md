@@ -5,7 +5,7 @@ En este apartado se detallarán los scripts. Los scripts son como listas de inst
 </p>
 
 ## Equipo de Desarrollo
->IntegradoraI-NombreProyecto<br>
+>IntegradoraI-New Vision<br>
 >| - Backend <br>
 >| - **Databases**<br>
 >&nbsp;&nbsp;|- Backups<br>

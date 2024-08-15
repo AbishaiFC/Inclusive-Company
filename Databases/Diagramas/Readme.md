@@ -6,7 +6,7 @@ En este apartado se almacenarán los diagramas. Estos son como mapas que muestra
 
 
 ## Equipo de Desarrollo
->IntegradoraI-NombreProyecto<br>
+>IntegradoraI-New Vision<br>
 >| - Backend <br>
 >| - **Databases**<br>
 >&nbsp;&nbsp;|- Backups<br>
