@@ -1,7 +1,7 @@
 # Backups ![Backups](https://img.shields.io/badge/Backups-Yes-brightgreen)
 
 <p align = justify>
-En este apartado se subirán los backups, que son copias de seguridad de la información importante en el proyecto. Los backups son esenciales porque si algo sale mal, como que se pierda accidentalmente la  información o que la computadora deje de funcionar, los backups permiten recuperar esa información perdida y continuar trabajando como si nada hubiera pasado.
+En este apartado se subirán los backups, que son copias de seguridad de la información importante en el proyecto. Los backups son esenciales porque si algo sale mal, como que se pierda accidentalmente la  información o que la computadora deje de funcionar, los backups permiten recuperar la  información perdida y continuar trabajando como si nada hubiera pasado.
 </p>
 
 ## Equipo de Desarrollo
