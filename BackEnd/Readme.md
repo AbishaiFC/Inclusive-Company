@@ -1,7 +1,7 @@
 # BackEnd ![Backend](https://img.shields.io/badge/Backend-Processing-blue)
 
 <p align = justify>
-En este apartado detallaremos la documentación de el apartado logico del proyecto siendo este la parte fundamental del proyecto proporcionando la infraestructura necesaria para que la aplicación funcione correctamente de manera eficiente.
+En este apartado detallaremos la documentación de el apartado logico del proyecto siendo esta la parte fundamental del proyecto proporcionando la infraestructura necesaria para que la aplicación funcione correctamente y de  manera eficiente.
 </p>
 
 ## Equipo de Desarrollo
