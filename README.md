@@ -39,8 +39,7 @@ Este proyecto tiene como objetivo principal brindar seguimiento y oportunidades 
 
 ## Diagrama de Gantt
 
-
-Este es un enlace a un [Diagrama de Gantt](./Others/New-Vision_Diagrama-De-Gantt.pdf) que contiene más información sobre los avances del proyecto.
+<img src="/Others/New_Vision.png" />
 
 
 ## Colaboradores
