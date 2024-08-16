@@ -1,7 +1,7 @@
 # PHP ![PHP](https://img.shields.io/badge/PHP-7.4-blue)
 
 <p align = justify>
-En este apartado detallaremos la documentación de el uso de el lenguaje de Hypertext Processor. En el proyecto esto nos yudara a generar contenido que cambia en función de las interacciones del usuario, como formularios de entrada, datos de bases de datos, sesiones de usuario, etc. Ademas de que gracias a que PHP tiene soporte incorporado para conectarse y manipular bases de datos, como MySQL, podremos manipular los datos ingresados por el usuario.
+En este apartado detallaremos la documentación de el uso de el lenguaje de Hypertext Processor. En el proyecto esto nos yudara a generar contenido que cambia en función de las interacciones del usuario, como  los formularios de entrada,como los datos de bases de datos, sesiones de usuario, etc. Ademas de que gracias a que PHP tiene soporte incorporado para conectarse y manipular bases de datos, como MySQL, podremos manipular los datos ingresados por el usuario.
 </p>
 
 ## Equipo de Desarrollo
