@@ -1,5 +1,5 @@
 # ASSETS  ![Assets](https://img.shields.io/badge/Assets-Managed-blue)
- En esta sección se encontrarán los archivos de imagenes, logotipos, isotipos, multimedia que se usara en el proyecto. Todo lo relacionado a los recursos visuales que permitiran una mayor caracterzacion del proyecto. 
+ En esta sección se encontrarán los archivos de imagenes, logotipos, isotipos y multimedia que se usaran en el proyecto. Todo lo relacionado a los recursos visuales que permitiran una mayor caracterzacion del proyecto. 
 
 ## Estructura de Archivos
 >IntegradoraI-New Vision<br>
