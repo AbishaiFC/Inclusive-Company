@@ -2,7 +2,7 @@
 
 
 <p align = justify>
-En este apartado se almacenarán los triggers del proyecto. Los triggers son reglas especiales que la base de datos sigue automáticamente cuando ocurren ciertos eventos. Estos eventos pueden ser acciones como insertar, actualizar o eliminar datos. Los triggers son útiles porque ayudan a mantener la base de datos organizada y segura al asegurar que ciertas acciones se ejecuten de manera controlada y predefinida.
+En este apartado se almacenarán los triggers del proyecto. Los triggers son reglas especiales que la base de datos sigue automáticamente cuando ocurren ciertos eventos. Estos eventos pueden ser acciones como insertar, actualizar o eliminar datos. Los triggers son útiles porque ayudan a mantener la base de datos organizada y segura ya que nos ayudara a  asegurar que ciertas acciones se ejecuten de manera controlada y predefinida.
 </p>
 
 ## Equipo de Desarrollo
