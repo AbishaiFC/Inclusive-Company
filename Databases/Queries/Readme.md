@@ -1,7 +1,7 @@
 # Queries ![Queries](https://img.shields.io/badge/Queries-Yes-brightgreen)
 
 <p align = justify>
-En este apartado se ingresarán las queries del proyecto. Las queries son como preguntas especiales que se hacen a la base de datos para obtener información específica. Son útiles para buscar, agregar, actualizar o borrar información exacta según lo que se necesite hacer en la base de datos.
+En este apartado se ingresarán las queries del proyecto. Las queries son como preguntas especiales que se hacen a la base de datos para obtener información específica. Se utilizan  para buscar, agregar, actualizar o borrar información exacta según lo que se necesite hacer en la base de datos.
 </p>
 
 ## Equipo de Desarrollo
