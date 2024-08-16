@@ -1,7 +1,7 @@
 # HTML  ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 
 
- En este apartado encontraremos los documentos fuente de todas las paginas que realizaremos, ya que una aplicacion web requiere de varias paginas web, asi que cada una de esas paginas se encontraran en este directorio. 
+ En este apartado encontraremos los documentos fuente de todas las paginas que realizaremos, ya que una aplicacion web requiere de varias paginas web, asi que cada una de esas paginas las podremos encontraran en este directorio. 
 
 
 ## Estructura de Archivos
