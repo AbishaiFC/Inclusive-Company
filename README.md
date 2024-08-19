@@ -1,5 +1,5 @@
 # NEW VISION
-<https://github.com/AbishaiFC/Inclusive-Company/blob/Carlos/LOGO%20IC3.jpg" /> | <img src="/FrontEnd/Assets/LogoNV.jpg" /> | 
+<img src="/FrontEnd/Assets/LOGO IC3.jpg" /> | <img src="/FrontEnd/Assets/LogoNV.jpg" /> | 
 --------------------------------------------|-------------------------------------------|
  Logo de la empresa | Logo del proyecto |
 
