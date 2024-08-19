@@ -1,5 +1,5 @@
 # NEW VISION
-<img src="LogoNV.jpg" /> | <img src="LogoNV.jpg" /> | 
+<img src="LOGO IC3 (1).jpg" /> | <img src="LogoNV.jpg" /> | 
 --------------------------------------------|-------------------------------------------|
  Logo de la empresa | Logo del proyecto |
 
