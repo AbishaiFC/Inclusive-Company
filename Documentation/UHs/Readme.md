@@ -22,6 +22,6 @@
 ## Estructura de Archivos
 |Integrante|Contacto|Rol|Observaciones|
 |------------|--------|---|---|
-|Osvaldo Abishai Flores Campos|[@AbishaiFC](https://github.com/AbishaiFC)|Lider de Databases|Posrtada de Diapositiva en blanco|
+|Osvaldo Abishai Flores Campos|[@AbishaiFC](https://github.com/AbishaiFC)|Lider de Databases|Portada de Diapositiva en blanco|
 |Carlos Isaac Fosado Escudero|[@CarlosFosadoo](https://github.com/CarlosFosadoo)|Lider de Documentacion|✅Revisado y aprobado|
 |Ailton Artiaga Quiroga|[@ArtQuir29](https://github.com/ArtQuir29)|Lider de Desarrollo de FrontEnd y BackEnd | 😐En revision.|
