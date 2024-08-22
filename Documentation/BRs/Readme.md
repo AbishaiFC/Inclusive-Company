@@ -29,4 +29,4 @@ En este apartado se detallaran los requerimentos del negocio, es decir aquellos 
 |------------|--------|---|---|
 |Osvaldo Abishai Flores Campos|[@AbishaiFC](https://github.com/AbishaiFC)|Lider de Databases|Falta de diseño y logos dentro del archivo|
 |Carlos Isaac Fosado Escudero|[@CarlosFosadoo](https://github.com/CarlosFosadoo)|Lider de Documentacion|✅Revisado y aprobado|
-|Ailton Artiaga Quiroga|[@ArtQuir29](https://github.com/ArtQuir29)|Lider de Desarrollo de FrontEnd y BackEnd | 😐En revision.|
+|Ailton Artiaga Quiroga|[@ArtQuir29](https://github.com/ArtQuir29)|Lider de Desarrollo de FrontEnd y BackEnd | 😐 No aprobado.|
