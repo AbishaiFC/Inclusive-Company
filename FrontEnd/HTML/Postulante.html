@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="Postulante.css">
+</head>
+<body>
+
+    <header>
+        <img src="/Assets/LogoNV.jpg" alt="" width="80px" style="margin:2px 2px;">
+        <h1 class="Titulo">New Vision</h1>
+    </header>
+    
+    <div class="botones">
+        <a href="Postulante.html"><button type="button">Postulante</button></a>  
+      </div> <br> 
+      <div class="botones">
+        <a href="empresa.html"><button type="button">Empresa</button></a>  
+      </div> <br> <br>
+
+    <ul class="tabs">
+        <li class="active" onclick="showTab(1)">Usuario</li>
+        <li onclick="showTab(2)">Discapacidad</li>
+        <li onclick="showTab(3)">Perfil profesional</li>
+        <li onclick="showTab(4)">Datos personales</li>
+    </ul>
+    
+    <div id="tab-content-1" class="tab-content active">
+        <h2>Usuario</h2>
+        <div class="container">
+            
+            <form action="#" method="post">
+                <!-- Información Personal -->
+                <div class="form-group">
+                    <label>Usuario:</label>
+                    <input type="text" id="full-name" name="full_name" required>
+                </div>
+        
+                <div class="form-group">
+                    <label>Correo Electrónico:</label>
+                    <input type="email" id="email" name="email" required>
+                </div>
+        
+                <div class="form-group">
+                    <label>Contraseña:</label>
+                    <input type="password" id="Contraseña" name="Contraseña" required>
+                </div>
+        
+        
+               
+         </form>
+         <a href="tab-content-2"><button type="submit">Siguiente</button></a>
+        </div>
+    </div>
+    <div id="tab-content-2" class="tab-content">
+        <h2>Discapacidad</h2>
+        <div class="container">
+            
+            <form action="#" method="post">
+                
+                <div class="form-group">
+                    <label>Tipo de discapacidad:</label>
+                    <input type="text" id="TD" name="TD" required>
+                </div>
+        
+                <div class="form-group">
+                    <label>Dependencias:</label>
+                    <input type="text" id="dep" name="dep" required>
+                </div>
+
+                <div class="form-group">
+                    <label>Nivel de afectacion:</label>
+                    <input type="text" id="NA" name="NA" required>
+                </div>
+        
+                <div class="form-group">
+                    <label>Descripcion adicional:</label>
+                    <input type="text" id="DA" name="DA" required>
+                </div>
+        
+               
+         </form>
+         <a href="tab-content-2"><button type="submit">Siguiente</button></a>
+        </div>
+    </div>
+    </div>
+    <div id="tab-content-3" class="tab-content">
+        <h2>Perfil profesional</h2>
+        <div class="container">
+        <form action="#" method="post">
+           
+            <div class="form-group">
+                <label>Perfil profesional:</label>
+                <input type="text" id="PP" name="PP" required>
+            </div>
+    
+            <div class="form-group">
+                <label>Descripcion:</label>
+                <input type="text" id="Descripcion" name="Descripcion" required>
+            </div>
+
+            <div class="form-group">
+                <label>Curriculum:</label>
+                <input type="file" id="CV" name="CV" required>
+            </div>
+    
+            <div class="form-group">
+                <label>IMSS:</label>
+                <input type="text" id="imss" name="imss" required>
+            </div>
+
+            <div class="form-group">
+                <label>Nivel de estudios:</label>
+                <select id="options" name="options">
+                    <option value="opcion1">Primaria</option>
+                    <option value="opcion2">Secundaria</option>
+                    <option value="opcion3">Preparatoria</option>
+                    <option value="opcion4">Titulado</option>
+                </select>
+            </div>
+           </form>
+           <a href="tab-content-2"><button type="submit">Siguiente</button></a>
+            </div>
+    </div>
+    <div id="tab-content-4" class="tab-content">
+        <h2>Datos personales</h2>
+        <div class="container">
+            <form action="#" method="post">
+                
+                    
+        <label for="fullName">Nombre Completo:</label>
+        <input type="text" id="fullName" name="fullName" required>
+        <br><br>
+
+        
+        <label for="address">Apellido paterno:</label>
+        <input type="text" id="AP" name="AP" required>
+        <br><br>
+
+        
+        <label for="address">Apellido materno:</label>
+        <input type="text" id="AM" name="AM" required>
+        <br><br>
+     
+        <label for="address">Dirección:</label>
+        <input type="text" id="address" name="address" required>
+        <br><br>
+
+        
+        <label for="address">Codigo postal:</label>
+        <input type="text" id="CP" name="CP" required>
+        <br><br>
+
+
+        <label for="phone">Número de Teléfono:</label>
+        <input type="tel" id="phone" name="phone"  placeholder="1234567890" required>
+        <br><br>
+
+        <label for="dob">Fecha de Nacimiento:</label>
+        <input type="date" id="dob" name="dob" required>
+        <br><br>
+                <h3>Genero:</h3>
+            <input type="radio" id="male" name="gender" value="male" required>
+            <label for="male">Masculino</label>
+            <br>
+            <input type="radio" id="female" name="gender" value="female">
+            <label for="female">Femenino</label>
+                 
+         </form>
+         <a href="tab-content-2"><button type="submit">Enviar</button></a>
+        </div>
+    </div>
+    
+
+
+
+    <footer>
+        <div class="Referencias">
+            <h4><b>Institucional</b></h4>
+            <a href="">¿Quienes somos?</a><br>
+            <a href="">Contacto para candidatos</a><br>
+            <a href="">Contacto para empresas</a><br>
+            <a href="">Aviso legal y Privacidad</a><br>
+        </div>
+        <div class="Referencias">
+            <h4><b>Candidatos</b></h4>
+            <a href="">Preguntas frecuentes</a><br>
+            <a href="">Empleos por Categoria</a><br>
+            <a href="">Empleos por salario</a><br>
+            <a href="">Empleos por lugar</a><br>
+            <a href="">Empleos por empresa</a><br>
+            <a href="">Empleos por discapacidad</a><br>
+            <a href="">Foro Postulantes</a><br>
+        </div>
+        <div class="Referencias">
+            <h4><b>Empresas</b></h4>
+            <a href="">Preguntas frecuentes</a><br>
+            <a href="">Buscar candidatos</a><br>
+        </div>
+    </footer>
+
+    <script href="/JS/postulante.js">
+    </script>
+    
+</body>
+</html>
