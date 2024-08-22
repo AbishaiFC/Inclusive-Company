@@ -1,4 +1,4 @@
-# Manual de Intalacion  ![Manual de Instalación](https://img.shields.io/badge/Manual%20de%20Instalación-Disponible-brightgreen)
+# Manual de Instalacion  ![Manual de Instalación](https://img.shields.io/badge/Manual%20de%20Instalación-Disponible-brightgreen)
 
 <p align = justify>
  En esta carpeta se encontraran los pasos a seguir para llevar acabo la instalacion del programa 
