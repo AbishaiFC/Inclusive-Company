@@ -1,0 +1,165 @@
+body {
+    font-family: Arial, sans-serif;
+    
+}
+
+header{
+    background: #ebebe9; /* Color de fondo del header */
+    display: flex; /* Display flexible */
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Titulo{
+    position: absolute;
+    left: 100px;
+}
+.logo{
+    font-size: 28px;
+    font-weight: bold;
+    color: #fefefe;
+}
+.botones{
+    width: 350px;
+    margin: 15px auto;
+    background-color: #625e73;
+    padding: 0;
+    border: px solid white;
+    border-radius: 25px;
+}
+
+button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    background-color: #007bff;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+.tabs {
+    display: flex;
+}
+
+.tab-button {
+    padding: 10px 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px 5px 0 0;
+    background-color: #f1f1f1;
+    cursor: pointer;
+    margin-right: 2px;
+    color: black;
+}
+
+.tab-button:hover {
+    background-color: #ddd;
+}
+
+.tab-content {
+    border: 1px solid #ccc;
+    border-top: none;
+    padding: 20px;
+    border-radius: 0 0 5px 5px;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"],
+textarea,
+select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+textarea {
+    resize: vertical;
+    height: 100px;
+}
+
+.checkbox-group,
+.radio-group {
+    margin-bottom: 15px;
+}
+
+.checkbox-group label,
+.radio-group label {
+    display: inline-block;
+    margin-right: 15px;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    background-color: #007bff;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+footer{
+    display: flex;
+    text-align: left;
+    justify-content:end ;
+    background: #1e1837;
+    padding: 15px 25px;
+    margin-top: 75px;
+}
+
+h4{
+    color: #ffffff;
+    font-size: 18px;
+}
+
+.Referencias {
+    padding: 10px 25px;
+}
+
+.Referencias a{
+    color: #ffffff;
+    text-decoration: none;
+    margin-left: 15px;
+    margin-top: 6px;
+}

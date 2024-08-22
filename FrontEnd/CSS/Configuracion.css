@@ -1,0 +1,240 @@
+*{
+    margin: 0px 0px; /* Espacio de margen entre la ventana y los objetos dentro de ella */
+}
+header{
+    background: #ebebe9; /* Color de fondo del header */
+    display: flex; /* Display flexible */
+    justify-content: space-between;
+}
+.BarraInicio{
+    background-color: #ffffff; /* Color de fondo del botón */
+    text-align: center; /* Alineación del texto */
+    display: inline-block; /* Display inline-block */
+    font-size: 16px; /* Tamaño de fuente */
+    margin: 10px 0px; /* Márgenes */
+    border-radius: 56px; /*Radio del boton */
+}
+
+.Inicio{
+    background-color: #ffffff; /* Color de fondo del botón */
+    border: 2px solid rgb(255, 255, 255); /* Sin borde */
+    padding: 15px 32px; /* Espaciado interno */
+    text-align: right; /* Alineación del texto */
+    display: inline-block; /* Display inline-block */
+    font-size: 16px; /* Tamaño de fuente */
+    border-radius: 56px; /*Radio del boton */
+}
+
+.Inicio .Categoria, .Ubicación, .Discapacidad {
+    color: #1e1837; /* Color del texto del enlace */
+    text-decoration: none; /* Subrayado del texto del enlace */ 
+    align-items: center;
+    display: flex;
+    margin-top: 4px;
+}
+
+.Buscar{
+    background-color: #1e1837; /* Color de fondo del botón */
+    border: 2px solid rgb(255, 255, 255); /* Sin borde */
+    padding: 15px 32px; /* Espaciado interno */
+    text-align: center; /* Alineación del texto */
+    display: inline-block; /* Display inline-block */
+    font-size: 16px; /* Tamaño de fuente */
+    margin: 0px 0px; /* Márgenes */
+    border-radius: 56px;  /*Radio del boton */
+    height: 100%;
+}
+.Buscar .Empleos{
+    color: #ffffff; /* Color del texto del enlace */
+    text-decoration: none; /* Subrayado del texto del enlace */
+    display: flex;
+    margin-top: 4px;
+}
+
+.NotificacionesUsuario{
+    background-color: #ffffff; /* Color de fondo del botón */
+    border: 2px solid rgb(255, 255, 255); /* Sin borde */
+    padding: 0px 0px; /* Espaciado interno */
+    text-align: center; /* Alineación del texto */
+    display: inline-flex; /* Display inline-block */
+    font-size: 16px; /* Tamaño de fuente */
+    margin: 10px 15px; /* Márgenes */
+    border-radius: 58px; /*Radio del boton */
+    position: relative;
+}
+.Notificaciones{
+    background-color: #ffffff; /* Color de fondo del botón */
+    border: 2px solid rgb(255, 255, 255); /* Sin borde */
+    padding: 0px 15px; /* Espaciado interno */
+    text-align: right; /* Alineación del texto */
+    display: inline-flex; /* Display inline-block */
+    font-size: 16px; /* Tamaño de fuente */
+    margin: 0px 0px; /* Márgenes */
+    border-radius: 28px; /*Radio del boton */
+    align-items: center;
+}
+.circulo1{
+    width: 55px;
+    height: 55px;
+    background: #1e1837;
+    border-radius: 50%;
+    position: absolute;
+    z-index: 1;
+    margin-top: 0px;
+    margin-left: -10px;
+}
+
+.circulo2{
+    width: 55px;
+    height: 55px;
+    background: #1e1837;
+    border-radius: 50%;
+    position: absolute;
+    z-index: 1;
+    margin-top: -39px;
+    margin-left: 60px;
+}
+.Usuario{
+    background-color: #ffffff; /* Color de fondo del botón */
+    border: 2px solid rgb(255, 255, 255); /* Sin borde */
+    padding: 0px 5px; /* Espaciado interno */
+    text-align: right; /* Alineación del texto */
+    display: inline-block; /* Display inline-block */
+    font-size: 16px; /* Tamaño de fuente */
+    margin-top: 15px;
+    border-radius: 28px; /*Radio del boton */
+}
+
+.Principal{
+    background-color: #ebebe9; /* Color de fondo del botón */
+    border: 2px solid rgb(255, 255, 255); /* Sin borde */
+    padding: 0px 0px; /* Espaciado interno */
+    text-align: center; /* Alineación del texto */
+    display: inline-block; /* Display inline-block */
+    margin: 10px auto; /* Márgenes */
+    border-radius: 70px; /*Radio del boton */
+}
+
+.DesplazarPrincipal{
+    background-color: #ebebe9; /* Color de fondo del botón */
+    border: 2px solid #ebebe9; /* Sin borde */
+    padding: 15px 52px; /* Espaciado interno */
+    text-align: center; /* Alineación del texto */
+    display: inline-block; /* Display inline-block */
+    font-size: 32px; /* Tamaño de fuente */
+    margin: 1px 1px; /* Márgenes */
+    border-radius: 38px; /*Radio del boton */
+}
+
+.DesplazarPrincipal .ParaMi, .MiCurriculum{
+    color: #1e1837; /* Color del texto del enlace */
+    text-decoration: none; /* Subrayado del texto del enlace */
+}
+
+.Desplazar{
+    background-color: #1e1837; /* Color de fondo del botón */
+    border: 2px solid rgb(255, 255, 255); /* Sin borde */
+    padding: 15px 32px; /* Espaciado interno */
+    text-align: center; /* Alineación del texto */
+    display: inline-block; /* Display inline-block */
+    font-size: 32px; /* Tamaño de fuente */
+    margin: 1px 1px; /* Márgenes */
+    border-radius: 50px; /*Radio del boton */
+}
+
+.Desplazar .Configuracion{
+    color: #ffffff; /* Color del texto del enlace */
+    text-decoration: none; /* Subrayado del texto del enlace */
+}
+
+main{
+    margin: 0px 25px;
+}
+
+h2{
+    color: #1e1837;
+    margin-bottom: 5px;
+}
+
+.Editar {
+    color: #7f7e9b;
+    font-size: 25px;
+}
+
+section{
+    background-color: #4c535d; /* Color de fondo del botón */
+    border: 2px solid rgb(255, 255, 255); /* Sin borde */
+    padding: 15px 25px; /* Espaciado interno */
+    text-align: left; /* Alineación del texto */
+    display: block; /* Display inline-block */
+    margin: 10px auto; /* Márgenes */
+    border-radius: 15px; /*Radio del boton */  
+    align-items: center;
+}
+
+.BloqueConfiguracion{
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 0px;
+    align-items: center;
+    margin-top: 15px;
+    
+}
+
+p{
+    color: #ffffff;
+    font-size: 15px;
+}
+
+label{
+    color: #ffffff;
+    font-size: 20px; 
+    align-items: center; 
+
+}
+
+input{
+    width: 20px;
+    height: 20px;
+    align-items: center;
+}
+input[type="checkbox"]{
+    appearance: none; /* Elimina el estilo predeterminado del navegador */
+    width: 20px; /* Ancho del checkbox */
+    height: 20px; /* Altura del checkbox */
+    border: 2px solid white; 
+    align-items: center;
+}
+footer{
+    display: flex;
+    text-align: left;
+    justify-content:end ;
+    background: #1e1837;
+    padding: 15px 25px;
+    margin-top: 75px;
+}
+
+h4{
+    color: #ffffff;
+    font-size: 18px;
+}
+
+.Referencias {
+    padding: 10px 25px;
+}
+
+.Referencias a{
+    color: #ffffff;
+    text-decoration: none;
+    margin-left: 15px;
+    margin-top: 6px;
+}
+
+.btnSection{
+    width: 150px;
+    padding: 5px 1px;
+    border-radius: 25px;
+    margin-top: 10px;
+    border: 2px solid white;
+    background-color: #ebebe9;
+}
