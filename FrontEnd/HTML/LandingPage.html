@@ -4,14 +4,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>New Vision</title>
-    <link rel="stylesheet" href="/CSS/LandingPage.css">
+    <link rel="stylesheet" href="/FrontEnd/CSS/LandingPage.css">
 </head>
 <body>
-        <header>
-        <img src="/Assets/LogoNV.jpg" alt="" width="80px" style="margin:2px 2px; left: 5px; position: absolute;">
+        <header style="box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); ">
+        <img src="/FrontEnd/Assets/LogoNV.jpg" alt="" width="80px" style="margin:2px 2px; left: 5px; position: absolute;">
             <h1 class="Titulo">New Vision</h1>
-            <button class="InicioHead" id="InicioSesion" ><a href="/HTML/InicioSesion.html">Inicia Sesión</a></button>
-            <button class="InicioHead" id="Registro"><a href="/HTML/CrearCuenta.html">Registrate</a></button>
+            <a href="/FrontEnd/HTML/InicioSesion.php"><button class="InicioHead" id="InicioSesion" >Inicia Sesión</button></a>
+            <a href="/FrontEnd/HTML/Postulante.php" style="color: white;"><button class="InicioHead" id="Registro"  style="color: white;">Registrate</button></a>
     </header>
     <main>
         <nav>
@@ -20,17 +20,16 @@
         <h2 class="find">Encuentra el empleo que encaja contigo, acercate a tu Nueva Vision</h2>
         <center>
         <div class="BarraInicio">
-            <button class="Inicio"><img src="/Assets/maleta.png" alt="" width="24px" style="display: inline; float: left; align-items: center; margin-right: 10px;"><a href="" class="Categoria">Categoria</a></button>
-            <button class="Inicio"><img src="/Assets/ubicacion.png" alt="" width="24px" style="display: inline; float: left; align-items: center; margin-right: 10px;"><a href="" class="Ubicación">Ubicación</a></button>
-            <button class="Inicio"><img src="/Assets/discapacidad.png" alt="" width="24px" style="display: inline; float: left; align-items: center; margin-right: 10px;"><a href="" class="Discapacidad">Discapacidad</a></button>
-            <button class="Buscar"><img src="/Assets/lupa.png" alt="" width="24px" style="display: inline; float: left; align-items: center; margin-right: 10px;"><a href="" class="Empleos">Buscar empleo</a></button>
+            <button class="Inicio"><img src="/FrontEnd/Assets/maleta.png" alt="" width="24px" style="display: inline; float: left; align-items: center; margin-right: 10px;"><a href="" class="Categoria">Categoria</a></button>
+            <button class="Inicio"><img src="/FrontEnd/Assets/ubicacion.png" alt="" width="24px" style="display: inline; float: left; align-items: center; margin-right: 10px;"><a href="" class="Ubicación">Ubicación</a></button>
+            <button class="Inicio"><img src="/FrontEnd/Assets/discapacidad.png" alt="" width="24px" style="display: inline; float: left; align-items: center; margin-right: 10px;"><a href="" class="Discapacidad">Discapacidad</a></button>
+            <button class="Buscar"><img src="/FrontEnd/Assets/lupa.png" alt="" width="24px" style="display: inline; float: left; align-items: center; margin-right: 10px;"><a href="" class="Empleos">Buscar empleo</a></button>
         </div>
     </center>
             <hr>
             <div class="image">
-                <img src="/Assets/ImgTrabajo.jpg" alt="" width="100px" style="border-radius: 50%; position: relative; z-index: 3; float: left;">
+                <img src="/FrontEnd/Assets/ImgTrabajo.jpg" alt="" width="157px" style="border-radius: 50%; position: relative; z-index: 3; float: left;">
                 <div class="circulo1"></div><div class="circulo2"></div><br>
-                <button class="Crear"><a href="/HTML/CrearCuenta.html" class="Cuenta">Crear cuenta</a></button>
 
             </div>
         
@@ -51,17 +50,17 @@
             <div class="secciones">
             <section>
                 <h3>Publica tu vacante</h3>
-                <img src="/Assets/velocidad.png" alt="" width="80px" style="float: left; align-items: center;margin-top: 5px; margin-right: 25px;">
+                <img src="/FrontEnd/Assets/velocidad.png" alt="" width="80px" style="float: left; align-items: center;margin-top: 5px; margin-right: 25px;">
                 <p>Fácil y rápido de crear, con solo un click</p>
             </section>
             <section>
                 <h3>Ver postulaciones</h3>
-                <img src="/Assets/usuario.png" alt="" width="80px" style="float: left; align-items: center;margin-top: 5px; margin-right: 25px;">
+                <img src="/FrontEnd/Assets/usuario.png" alt="" width="80px" style="float: left; align-items: center;margin-top: 5px; margin-right: 25px;">
                 <p>Selecciona solo a los mejores candidatos</p>
             </section>
             <section>
                 <h3>Contrata</h3>
-                <img src="/Assets/contratacion.png" alt="" width="80px" style="float: left; align-items: center;margin-top: 10px; margin-right: 25px;">
+                <img src="/FrontEnd/Assets/contratacion.png" alt="" width="80px" style="float: left; align-items: center;margin-top: 10px; margin-right: 25px;">
                 <p>Encuentra al candidato que mejor se adapta al perfil buscado</p>
             </section>
         </div></center>
@@ -73,24 +72,17 @@
         <div class="Referencias">
             <h4><b>Institucional</b></h4>
             <a href="">¿Quienes somos?</a><br>
-            <a href="">Contacto para candidatos</a><br>
-            <a href="">Contacto para empresas</a><br>
             <a href="">Aviso legal y Privacidad</a><br>
         </div>
         <div class="Referencias">
             <h4><b>Candidatos</b></h4>
             <a href="">Preguntas frecuentes</a><br>
-            <a href="">Empleos por Categoria</a><br>
-            <a href="">Empleos por salario</a><br>
-            <a href="">Empleos por lugar</a><br>
-            <a href="">Empleos por empresa</a><br>
-            <a href="">Empleos por discapacidad</a><br>
-            <a href="">Foro Postulantes</a><br>
+            <a href="/FrontEnd/HTML/Trabajos.html">Empleos</a><br>
         </div>
         <div class="Referencias">
             <h4><b>Empresas</b></h4>
             <a href="">Preguntas frecuentes</a><br>
-            <a href="">Buscar candidatos</a><br>
+            <a href="/FrontEnd/HTML/Postulantes.html">Buscar candidatos</a><br>
         </div>
     </footer>
 </body>

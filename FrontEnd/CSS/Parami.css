@@ -104,6 +104,9 @@ header{
   font-size: 16px; /* Tamaño de fuente */
   margin-top: 15px;
   border-radius: 28px; /*Radio del boton */
+
+
+  
 }
 
 .Principal{
@@ -206,15 +209,14 @@ section{
     background: #4c535d;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    align-content: center;
     justify-content: center;
     text-align: center;
     padding: 10px 25px;
   }
 
    .card-contentusuario {
-    margin-left: 15px;
     color: #ebebe9;
+    align-items: center;
   }
   .card {
     background: #fefefe;
@@ -235,6 +237,8 @@ section{
   .card-title {
     font-size: 1.5em;
     margin: 0;
+    align-items: center;
+    margin-top: 10px;
   }
   .card-description {
     color: #666;
@@ -294,3 +298,4 @@ h4{
     margin-left: 15px;
     margin-top: 6px;
 }
+

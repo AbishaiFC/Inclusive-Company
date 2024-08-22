@@ -1,0 +1,232 @@
+*{
+  margin: 0;
+}
+header{
+    background: #ebebe9; /* Color de fondo del header */
+    display: flex; /* Display flexible */
+    justify-content: space-between;
+    align-items: center;
+  }
+  .BarraInicio{
+    background-color: #ffffff; /* Color de fondo del botón */
+    text-align: center; /* Alineación del texto */
+    display: inline-block; /* Display inline-block */
+    font-size: 16px; /* Tamaño de fuente */
+    margin: 10px 0px; /* Márgenes */
+    border-radius: 58px; /*Radio del boton */
+  }
+  
+  
+  
+  .Inicio{
+    background-color: #ffffff; /* Color de fondo del botón */
+    border: 2px solid rgb(255, 255, 255); /* Sin borde */
+    padding: 15px 32px; /* Espaciado interno */
+    text-align: right; /* Alineación del texto */
+    display: inline-block; /* Display inline-block */
+    font-size: 16px; /* Tamaño de fuente */
+    border-radius: 28px; /*Radio del boton */
+  }
+  
+  .Inicio .Categoria, .Ubicación, .Discapacidad {
+    color: #1e1837; /* Color del texto del enlace */
+    text-decoration: none; /* Subrayado del texto del enlace */ 
+    align-items: center;
+    display: flex;
+    margin-top: 4px;
+  }
+  
+  .Buscar{
+    background-color: #1e1837; /* Color de fondo del botón */
+    border: 2px solid rgb(255, 255, 255); /* Sin borde */
+    padding: 15px 32px; /* Espaciado interno */
+    text-align: center; /* Alineación del texto */
+    display: inline-block; /* Display inline-block */
+    font-size: 16px; /* Tamaño de fuente */
+    margin: 0px 0px; /* Márgenes */
+    border-radius: 28px;  /*Radio del boton */
+    height: 100%;
+  }
+  .Buscar .Empleos{
+    color: #ffffff; /* Color del texto del enlace */
+    text-decoration: none; /* Subrayado del texto del enlace */
+    display: flex;
+    margin-top: 4px;
+  }
+  
+  .NotificacionesUsuario{
+    background-color: #ffffff; /* Color de fondo del botón */
+    border: 2px solid rgb(255, 255, 255); /* Sin borde */
+    padding: 0px 0px; /* Espaciado interno */
+    text-align: center; /* Alineación del texto */
+    display: inline-flex; /* Display inline-block */
+    font-size: 16px; /* Tamaño de fuente */
+    margin: 10px 15px; /* Márgenes */
+    border-radius: 58px; /*Radio del boton */
+    position: relative;
+  }
+  .Notificaciones{
+    background-color: #ffffff; /* Color de fondo del botón */
+    border: 2px solid rgb(255, 255, 255); /* Sin borde */
+    padding: 0px 15px 0px 2px; /* Espaciado interno */
+    text-align: right; /* Alineación del texto */
+    display: inline-flex; /* Display inline-block */
+    font-size: 16px; /* Tamaño de fuente */
+    margin: 0px 0px; /* Márgenes */
+    border-radius: 28px; /*Radio del boton */
+    align-items: center;
+  }
+  .circulo1{
+    width: 55px;
+    height: 55px;
+    background: #1e1837;
+    border-radius: 50%;
+  
+    z-index: 1;
+  }
+  
+  .circulo2{
+    width: 55px;
+    height: 55px;
+    background: #1e1837;
+    border-radius: 50%;
+    position: absolute;
+    z-index: 1;
+    margin-top: -39px;
+    margin-left: 60px;
+  }
+  .Usuario{
+    background-color: #ffffff; /* Color de fondo del botón */
+    border: 2px solid rgb(255, 255, 255); /* Sin borde */
+    padding: 0px 5px; /* Espaciado interno */
+    text-align: right; /* Alineación del texto */
+    display: inline-block; /* Display inline-block */
+    font-size: 16px; /* Tamaño de fuente */
+    margin-top: 15px;
+    border-radius: 28px; /*Radio del boton */
+  }
+  
+  .container {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.card {
+    background: #fefefe;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    text-align: center;
+    transition: transform 0.3s;
+    width: 400px;
+    margin: 15px 15px;
+
+  }
+  .card img{
+    margin-top: 22px;
+    height: auto;
+  }
+
+  .card-content {
+    padding: 15px;
+  }
+  .card-title {
+    font-size: 1.5em;
+    margin: 0;
+  }
+  .card-description {
+    color: #666;
+    font-size: 1em;
+    margin: 10px 0;
+  }
+  .user-button{
+    background-color: #ebebe9;
+    color: #4c535d;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1em;
+    border-radius: 15px;
+    cursor: pointer;
+    text-decoration: none;
+  }
+  .card-button {
+    background-color: #7f7e9b;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1em;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+
+  }
+  .card-button:hover {
+    background-color: #ebebe9;
+  }
+  .card:hover {
+    transform: scale(1.05);
+    background-color: #8e8e8e70;
+  }
+
+  footer{
+    display: flex;
+    text-align: left;
+    justify-content:end ;
+    background: #1e1837;
+    padding: 15px 25px;
+    margin-top: 75px;
+}
+
+h4{
+    color: #ffffff;
+    font-size: 18px;
+}
+
+.Referencias {
+    padding: 10px 25px;
+}
+
+.Referencias a{
+    color: #ffffff;
+    text-decoration: none;
+    margin-left: 15px;
+    margin-top: 6px;
+}
+
+@media (max-width: 768px) {
+    .container {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .card {
+        width: 90%;
+    }
+
+    header {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .BarraInicio {
+        margin-bottom: 10px;
+    }
+}
+
+@media (max-width: 480px) {
+    .card {
+        width: 100%;
+    }
+
+    .NotificacionesUsuario {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .Notificaciones, .Usuario {
+        margin-bottom: 10px;
+    }
+}

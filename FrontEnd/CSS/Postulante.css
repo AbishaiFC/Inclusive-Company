@@ -1,0 +1,204 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #f4f4f4; 
+}
+
+header {
+    background: #ebebe9;
+    display: flex; 
+    justify-content: left;
+    align-items: center;
+    padding: 10px 20px;
+}
+
+.Titulo {
+    margin-left: 20px;
+}
+
+.botones {
+    width: 350px;
+    margin: 15px auto;
+    background-color: #ebebe9;
+    padding: 0;
+    border: 1px solid #ddd;
+    border-radius: 25px;
+    display: flex;
+    justify-content: center; 
+}
+
+.uno, .dos {
+    text-align: center;
+    height: 40px;
+    width: 200px;
+    border-radius: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    border: solid 1px;
+    cursor: pointer; 
+}
+
+.uno {
+    background-color: #1e1837;
+    color: white;
+    border-color: #7f7e9b;
+}
+
+.dos {
+    background-color: #ebebe9;
+    color: #1e1837;
+    border-color: #ebebe9;
+}
+
+.tabs {
+    display: flex;
+    cursor: pointer;
+    list-style-type: none;
+    background-color: rgba(255, 255, 255, 0.8);
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+}
+
+.tabs li {
+    flex: 1;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+    transition: background-color 0.3s, z-index 0.3s;
+    margin: 0;
+    text-align: center;
+}
+
+.tabs li.active {
+    background-color: #ebebe9;
+    border-top: 2px solid #1e1837;
+    border-radius: 9px 9px 0 0;
+    z-index: 1; /* Asegura que la pestaña activa esté encima */
+}
+
+.tab-content {
+    display: none;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-top: none;
+    background-color: #ebebe9;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.tab-content.active {
+    display: block;
+}
+
+.container {
+    margin: auto;
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-width: 800px; /* Ancho máximo del contenedor */
+}
+
+
+
+label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+}
+
+input[type="text"], input[type="email"], input[type="password"], input[type="tel"], textarea, select {
+    width: 95%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+textarea {
+    resize: vertical;
+    height: 100px;
+}
+
+.checkbox-group, .radio-group {
+    margin-bottom: 15px;
+}
+
+.checkbox-group label, .radio-group label {
+    display: inline-block;
+    margin-right: 15px;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+footer {
+    display: flex;
+    text-align: left;
+    justify-content: right;
+    background: #1e1837;
+    padding: 15px 25px;
+    margin-top: 75px;
+    color: #fff;
+}
+
+footer h4 {
+    font-size: 18px;
+}
+
+.Referencias {
+    padding: 10px 25px;
+}
+
+.Referencias a {
+    color: #fff;
+    text-decoration: none;
+    margin-left: 15px;
+    margin-top: 6px;
+    display: inline-block;
+}
+
+.finishform {
+    text-align: center;
+    background-color: #1e1837;
+    height: 40px;
+    width: 200px;
+    border-radius: 20px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    border: solid 1px #7f7e9b;
+    cursor: pointer; 
+}
+
+section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.sexo {
+    width: 20px;
+    height: 20px;
+    margin: 5px;
+    justify-content: space-around;
+}
+
+.sexo label {
+    align-items: center;
+    margin-top: 5px;
+}
+
+section input{
+    align-items: center;
+    width: 20px;
+    height: 20px;
+}

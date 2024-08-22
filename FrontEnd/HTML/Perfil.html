@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Perfil de Usuario</title>
+    <link rel="stylesheet" href="/FrontEnd/CSS/perfil.css">
+</head>
+<body>
+
+    <header>
+        <img src="/FrontEnd/Assets/LogoNV.jpg" alt="" width="80px" style="margin:2px 2px;">
+        <div class="BarraInicio">
+            <button class="Inicio"><img src="/FrontEnd/Assets/maleta.png" alt="" width="24px"
+                    style="display: inline; float: left; align-items: center; margin-right: 10px;"><a href=""
+                    class="Categoria">Categoria</a></button>
+            <button class="Inicio"><img src="/FrontEnd/Assets/ubicacion.png" alt="" width="24px"
+                    style="display: inline; float: left; align-items: center; margin-right: 10px;"><a href=""
+                    class="Ubicación">Ubicación</a></button>
+            <button class="Inicio"><img src="/FrontEnd/Assets/discapacidad.png" alt="" width="24px"
+                    style="display: inline; float: left; align-items: center; margin-right: 10px;"><a href=""
+                    class="Discapacidad">Discapacidad</a></button>
+            <button class="Buscar"><img src="/FrontEnd/Assets/lupa.png" alt="" width="24px"
+                    style="display: inline; float: left; align-items: center; margin-right: 10px;"><a href=""
+                    class="Empleos">Buscar empleo</a></button>
+        </div>
+        <div class="NotificacionesUsuario">
+            <button class="Notificaciones"><img src="/FrontEnd/Assets/campana.png" alt=""
+                    style="width:40px ; position: absolute; z-index: 2; right: 253px;margin-top: 6px; ">
+                <div class="circulo1"></div>
+                <div>
+                    <p style="margin-left: 5px;">Notificaciones</p>
+                </div>
+            </button>
+
+            <button class="Usuario">Usuario<img src="/FrontEnd/Assets/avatar (1).png" alt="" width="48px"
+                    style="display: inline; float: right; align-items: center; margin-left: 9px;margin-top: -16px;  position: relative;z-index: 2;">
+                <div class="circulo2"></div>
+            </button>
+        </div>
+    </header>
+
+    <div class="profile-container">
+        <!-- Imagen de Perfil -->
+        <div class="profile-header">
+            <img src="/FrontEnd/Assets/avatar.png" alt="Imagen de perfil" class="profile-image">
+            <h1 class="profile-name">Juan Pérez</h1>
+            <p class="profile-job">Desarrollador Web</p>
+        </div>
+
+        <!-- Información del Usuario -->
+        <div class="profile-info">
+            <h2>Información Personal</h2>
+            <ul>
+                <li><strong>Correo Electrónico:</strong> juan.perez@example.com</li>
+                <li><strong>Teléfono:</strong> +34 123 456 789</li>
+                <li><strong>Ubicación:</strong> Madrid, España</li>
+                <li><strong>Bio:</strong> Desarrollador web con 5 años de experiencia en tecnologías front-end y back-end. Apasionado por el aprendizaje continuo y el desarrollo de soluciones innovadoras.</li>
+            </ul>
+        </div>
+
+        <!-- Publicaciones o Actividades Recientes -->
+        <div class="profile-activities">
+            <h2>Actividades Recientes</h2>
+            <div class="activity-card">
+                <h3>Desarrollé una nueva aplicación</h3>
+                <p>He lanzado una nueva aplicación para gestionar proyectos que permite una colaboración eficiente y una visualización clara de las tareas.</p>
+                <span class="activity-date">15 de agosto de 2024</span>
+            </div>
+            <div class="activity-card">
+                <h3>Conferencia sobre tecnologías web</h3>
+                <p>Participé como ponente en una conferencia sobre las últimas tendencias en tecnologías web y cómo están transformando el desarrollo de aplicaciones.</p>
+                <span class="activity-date">10 de agosto de 2024</span>
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>
